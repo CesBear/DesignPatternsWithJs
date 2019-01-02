@@ -1,14 +1,10 @@
 /**
- *
- *  Is the method to minimize recreating the same item twice
+ Is the method to minimize recreating the same item twice
  whenever we create 2 items we stack those items in the memory of the browsers.
- the browser uses the flyweigth pattern to save images in memory so the dont load twice
-
- similiar to singleton
+ the browser uses the fly weight pattern to save images in memory so the dont load twice.
+ Kinda similar to singleton.
 
  ***********Participants***********************
- *
- *
  * The objects participating in this pattern are:
 
  Client -- In sample code: Computer
@@ -18,12 +14,9 @@
  if requested, and a flyweight does not exist, it will create one
  stores newly created flyweights for future requests
  Flyweight -- In sample code: Flyweight
- maintains intrinsic data to be shared across the application
- *
- *
+ maintains intrinsic data to be shared across the application *
  *
  */
-
 
 let Flyweight  =(make, model, processor) => {
     this.make = make;
@@ -94,7 +87,7 @@ let log = (function () {
     }
 })();
 
-function run() {
+let run =() => {
     let computers = new ComputerCollection();
 
     computers.add("Dell", "Studio XPS", "Intel", "5G", "Y755P");
@@ -108,4 +101,4 @@ function run() {
     log.add("Computers: " + computers.getCount());
     log.add("Flyweights: " + FlyWeightFactory.getCount());
     log.show();
-}
+};

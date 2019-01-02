@@ -40,7 +40,7 @@ class SuvFactory {
         switch(type) {
             case 'cx5':
                 return new Car(4, 'V8', 'grey')
-            case 'sante fe':
+            case 'Sante fe':
                 return new Car(2, 'V4', 'red')
         }
     }
@@ -56,7 +56,7 @@ const autoManufacturer = (type, model) => {
         case 'suv':
             return suvFactory.createSuv(model);
     }
-}
+};
 
 const cx5 = autoManufacturer('suv', 'cx5');
 
