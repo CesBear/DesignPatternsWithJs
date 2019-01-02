@@ -15,10 +15,7 @@ export default calc;
 
 //then create a separate file called index and copy the code below.
 
-/**
- *
- *
- *
+
  import express from 'express';
  import calc from './calc';
 
@@ -33,5 +30,3 @@ export default calc;
  app.listen(PORT, () =>
  console.log(`your server is running on port ${PORT}`)
  );
-
- */
