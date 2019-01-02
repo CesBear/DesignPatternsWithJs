@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2755ba-142a-425e-884c-f2367c18992a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BehavioralPatterns/MediatorPattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BehavioralPatterns/MediatorPattern.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BehavioralPatterns/MementoPattern.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BehavioralPatterns/ObserverPattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BehavioralPatterns/ObserverPattern.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/BehavioralPatterns/StatePattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BehavioralPatterns/StatePattern.js" afterDir="false" />
-    </list>
+    <list default="true" id="ac2755ba-142a-425e-884c-f2367c18992a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,20 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/BehavioralPatterns/MediatorPattern.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -78,6 +65,7 @@
         <option value="$PROJECT_DIR$/Examples/BehavioralPatterns/MementoPattern.js" />
         <option value="$PROJECT_DIR$/Examples/BehavioralPatterns/MediatorPattern.js" />
         <option value="$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -158,16 +146,15 @@
       <updated>1545952233589</updated>
       <workItem from="1545952234803" duration="783000" />
       <workItem from="1546020606418" duration="3489000" />
-      <workItem from="1546446119087" duration="8598000" />
+      <workItem from="1546446119087" duration="8736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12870000" />
+    <option name="totallyTimeSpent" value="13008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-314" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1849315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,6 +308,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Examples/BehavioralPatterns/MediatorPattern.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -328,10 +322,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/BehavioralPatterns/CommandPattern.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
